@@ -2,7 +2,7 @@
 
 Submitted by: **Edgar Palomino**
 
-**Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**CONMEBOL Qualifiers Games** is a website where football fans can see the upcoming games for the CONMEBOL World Cup 2026 qualification tournament.
 
 Time spent: **10** hours spent in total
 
